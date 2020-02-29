@@ -1,0 +1,9 @@
+# GIMP gimp-text-tool options
+
+(palette "Standard")
+(font "Dopestyle")
+(font-size 24)
+(justify center)
+(box-mode fixed)
+
+# end of gimp-text-tool options
