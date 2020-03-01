@@ -1,8 +1,10 @@
 # GIMP gimp-text-tool options
 
-(palette "Standard")
-(font "Dopestyle")
-(font-size 24)
+(foreground (color-rgb 1 1 1))
+(palette "Histórico de cor")
+(font "Google Sans Medium, Medium")
+(font-size 22)
+(hint-style full)
 (justify center)
 (box-mode fixed)
 

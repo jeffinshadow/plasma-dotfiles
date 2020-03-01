@@ -1,4 +1,5 @@
 # GIMP gimp-unified-transform-tool options
 
+(background (color-rgb 0.58823529411764708 0.58823529411764708 0.58823529411764708))
 
 # end of gimp-unified-transform-tool options

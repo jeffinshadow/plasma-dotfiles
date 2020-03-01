@@ -4,7 +4,7 @@ In this repository I intend to keep configuration files that I deem important, i
 
 # My Actual Desktop
 ![Screenshot](https://raw.githubusercontent.com/jeffinshadow/dotfiles/master/readmepictures/myhome.png)
-
+![Screenshot](https://raw.githubusercontent.com/jeffinshadow/dotfiles/master/readmepictures/myhomeds.png)
 ### My Actual Themes
 ###### System Themes
 [Materia KDE Theme](https://github.com/PapirusDevelopmentTeam/materia-kde)
@@ -46,13 +46,13 @@ In this repository I intend to keep configuration files that I deem important, i
 ### [Neofetch](https://github.com/jeffinshadow/dotfiles/tree/master/.config/neofetch):
 ![Screenshot](https://raw.githubusercontent.com/jeffinshadow/dotfiles/master/readmepictures/neofetchconfig.png)
 
-### [PhotoGIMP by Diolinux](https://www.diolinux.com.br/2018/11/photogimp-v2018-o-gimp-para-quem-vem-do-photoshop.html)
+### [GIMP](https://github.com/jeffinshadow/dotfiles/tree/master/.config/GIMP):
 ![Screenshot](https://raw.githubusercontent.com/jeffinshadow/dotfiles/master/readmepictures/gimp.png)
-
+![Screenshot](https://raw.githubusercontent.com/jeffinshadow/dotfiles/master/readmepictures/gimpsplash.png)
 ### [Plasma Splashscreen](https://github.com/jeffinshadow/dotfiles/tree/master/.local/share/plasma/look-and-feel):
 ![Screenshot](https://raw.githubusercontent.com/jeffinshadow/dotfiles/master/readmepictures/shadowsplash.png)
 
 ### [Grub Theme](https://github.com/jeffinshadow/dotfiles/tree/master/GrubTheme):
 ![Screenshot](https://raw.githubusercontent.com/jeffinshadow/dotfiles/master/readmepictures/grubtheme.jpg)
 
-You can found my wallpapers collection [here](https://github.com/jeffinshadow/dotfiles/tree/master/Wallpapers)
+You can found my wallpapers collection [here](https://github.com/jeffinshadow/dotfiles/tree/master/Wallpapers).
