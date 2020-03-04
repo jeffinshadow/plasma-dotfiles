@@ -40,7 +40,7 @@ large_icon_size=32
 button_icon_size=16
 toolbar_icon_size=16
 combo_as_lineedit=true
-animate_states=false
+animate_states=true
 button_contents_shift=false
 combo_menu=true
 hide_combo_checkboxes=true
@@ -93,18 +93,18 @@ link.visited.color=#9E4FFF
 progress.indicator.text.color=#dfdfdf
 
 [Hacks]
-transparent_ktitle_label=false
-transparent_dolphin_view=false
-transparent_pcmanfm_sidepane=false
-blur_translucent=false
-transparent_menutitle=false
+transparent_ktitle_label=true
+transparent_dolphin_view=true
+transparent_pcmanfm_sidepane=true
+blur_translucent=true
+transparent_menutitle=true
 respect_darkness=true
 kcapacitybar_as_progressbar=true
 force_size_grip=true
 iconless_pushbutton=true
 iconless_menu=false
-disabled_icon_opacity=68
-lxqtmainmenu_iconsize=20
+disabled_icon_opacity=70
+lxqtmainmenu_iconsize=16
 normal_default_pushbutton=true
 single_top_toolbar=true
 tint_on_mouseover=0
@@ -213,7 +213,7 @@ min_height=+0.3font
 
 [Focus]
 inherits=PanelButtonCommand
-frame=true
+frame=false
 frame.element=focus
 frame.top=2
 frame.bottom=2
