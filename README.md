@@ -11,7 +11,7 @@ In this repository I intend to keep configuration files that I deem important, i
 
 [Materia GTK Theme](https://github.com/nana-4/materia-theme)
 
-[Papirus Icon Pack](https://github.com/PapirusDevelopmentTeam/papirus_icons)
+[Papirus Icon Pack](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme)
 
 [SierraBreezeEnhanced Window Decoration Theme](https://github.com/kupiqu/SierraBreezeEnhanced)
 
