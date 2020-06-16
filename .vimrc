@@ -1,5 +1,6 @@
 set number
 syntax on
+set bg=dark
 set wildmenu
 set mouse=a
 let g:airline_theme='minimalist'
