@@ -4,7 +4,7 @@ In this repository I intend to keep configuration files that I deem important, i
 
 # My Actual Desktop
 ![Screenshot](https://raw.githubusercontent.com/jeffinshadow/dotfiles/master/readmepictures/myhome.png)
-![Screenshot](https://raw.githubusercontent.com/jeffinshadow/dotfiles/master/readmepictures/myhomeds.png)
+
 ### My Actual Themes
 ###### System Themes
 [Materia KDE Theme](https://github.com/PapirusDevelopmentTeam/materia-kde)
