@@ -75,6 +75,7 @@ set input.modplug.priority=50
 set input.mpc.priority=50
 set input.vorbis.priority=50
 set input.wav.priority=50
+set input.wavpack.priority=50
 set lib_add_filter=
 set lib_sort=albumartist date album discnumber tracknumber title filename play_count
 set mixer.alsa.channel=
