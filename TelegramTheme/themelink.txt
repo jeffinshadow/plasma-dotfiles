@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Telegram and Telegram X themes can be found in:
 https://t.me/shadowdump
+=======
+https://t.me/addtheme/jeffinshadowmateria
+>>>>>>> origin/master
