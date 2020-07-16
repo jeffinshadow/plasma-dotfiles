@@ -99,7 +99,7 @@ source $ZSH/oh-my-zsh.sh
 # Example aliases
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
-alias sdup="yay -Syyuu"
+alias sdup="yay -Syu"
 alias sdi="sudo pacman -S"
 alias sdr="sudo pacman -Rsn"
 alias rmo="sudo pacman -Rcns $(pacman -Qdtq)"
