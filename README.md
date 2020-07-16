@@ -28,18 +28,25 @@ In this repository I intend to keep configuration files that I deem important, i
 
 [Window Appmenu Applet](https://github.com/psifidotos/applet-window-appmenu)
 
-[Chili Clock](https://github.com/MarianArlt/kde-plasmoid-chiliclock)
+# My Custom Plasma and Telegram Themes (Inspired by Materia)
 
-# My Custom App Themes (Inspired by Materia-Dark and Darcula)
+### [Shadow-Rounded-Materia](https://github.com/jeffinshadow/dotfiles/tree/master/.local/share/plasma/desktoptheme): A darker variant of Materia-KDE, with more rounded corners
+![Screenshot](https://raw.githubusercontent.com/jeffinshadow/dotfiles/master/readmepictures/shadowroundedmateria.png)
+
+### [Shadow-Breeze Splashscreen](https://github.com/jeffinshadow/dotfiles/tree/master/.local/share/plasma/look-and-feel): A custom version of Breeze default splashscreen
+![Screenshot](https://raw.githubusercontent.com/jeffinshadow/dotfiles/master/readmepictures/shadowsplash.png)
+
+### [Shadow-Materia Telegram Theme](https://t.me/addtheme/jeffinshadowmateria): A telegram theme based on Materia-KDE
+![Screenshot](https://raw.githubusercontent.com/jeffinshadow/dotfiles/master/readmepictures/telegram.png)
+
+
+# My Custom TUI App Colorschemes (Based on Materia and Darcula)
 
 ### [Cmus](https://github.com/jeffinshadow/dotfiles/blob/master/.config/cmus/sd.theme):
 ![Screenshot](https://raw.githubusercontent.com/jeffinshadow/dotfiles/master/readmepictures/cmus.png)
 
 ### [Vim](https://github.com/jeffinshadow/dotfiles/blob/master/.vimrc):
 ![Screenshot](https://raw.githubusercontent.com/jeffinshadow/dotfiles/master/readmepictures/customvim.png)
-
-### [Telegram Desktop](https://github.com/jeffinshadow/dotfiles/tree/master/TelegramTheme):
-![Screenshot](https://raw.githubusercontent.com/jeffinshadow/dotfiles/master/readmepictures/telegram.png)
 
 # Other things I modified to feel at home
 
@@ -49,8 +56,6 @@ In this repository I intend to keep configuration files that I deem important, i
 ### [GIMP](https://github.com/jeffinshadow/dotfiles/tree/master/.config/GIMP):
 ![Screenshot](https://raw.githubusercontent.com/jeffinshadow/dotfiles/master/readmepictures/gimp.png)
 ![Screenshot](https://raw.githubusercontent.com/jeffinshadow/dotfiles/master/readmepictures/gimpsplash.png)
-### [Plasma Splashscreen](https://github.com/jeffinshadow/dotfiles/tree/master/.local/share/plasma/look-and-feel):
-![Screenshot](https://raw.githubusercontent.com/jeffinshadow/dotfiles/master/readmepictures/shadowsplash.png)
 
 ### [Grub Theme](https://github.com/jeffinshadow/dotfiles/tree/master/GrubTheme):
 ![Screenshot](https://raw.githubusercontent.com/jeffinshadow/dotfiles/master/readmepictures/grubtheme.jpg)
