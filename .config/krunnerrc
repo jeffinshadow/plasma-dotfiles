@@ -1,0 +1,32 @@
+[General]
+FreeFloating=true
+history=latte,displa,sie,kons,grub,syst,DISpla,window rul,foc,you,ice,sy,kvan,ksys,defa,sys,noti,che,gpa,kco,font,lock,sddm,spla,eff,kwi,spe,plasmashell --replace,kA,themes,reboot,window de,theme,sudo pkill -9 latte,k,F             xbxb,usi,ks,aPP,APP,app,dolp,su,inf,chr,ls,kotat,dis,kmenuedit,Zen
+
+[PlasmaRunnerManager]
+LaunchCounts=1 services_ice.desktop,1 services_kcm_notifications.desktop,1 services_user_manager.desktop,3 services_kcm_fonts.desktop,1 shell_kmenuedit,1 services_org.kde.konsole.desktop,1 services_kcm_kwin_effects.desktop,1 services_org.kde.okular.desktop,1 services_org.kde.kcolorchooser.desktop,1 services_vlc.desktop,1 services_keys.desktop,1 services_about-distro.desktop,1 services_kcm_activities.desktop,1 services_kcm_keyboard.desktop,5 services_systemsettings.desktop,2 services_kwindecoration.desktop,1 services_org.kde.latte-dock.desktop,1 services_libreoffice-calc.desktop,1 services_rhythmbox.desktop,1 services_kvantummanager.desktop,2 services_org.kde.dolphin.desktop,1 services_transmission-qt.desktop,2 services_flameshot.desktop,2 services_telegramdesktop.desktop
+
+[Plugins]
+CharacterRunnerEnabled=true
+DictionaryEnabled=false
+Kill RunnerEnabled=true
+PowerDevilEnabled=false
+Spell CheckerEnabled=false
+baloosearchEnabled=false
+bookmarksEnabled=false
+calculatorEnabled=false
+desktopsessionsEnabled=false
+konsoleprofilesEnabled=true
+krunner_appstreamEnabled=false
+kwinEnabled=true
+locationsEnabled=true
+org.kde.activitiesEnabled=false
+org.kde.datetimeEnabled=false
+org.kde.windowedwidgetsEnabled=false
+placesEnabled=false
+plasma-desktopEnabled=true
+recentdocumentsEnabled=false
+servicesEnabled=true
+shellEnabled=true
+unitconverterEnabled=false
+webshortcutsEnabled=false
+windowsEnabled=false

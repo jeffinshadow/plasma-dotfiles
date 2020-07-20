@@ -1,0 +1,12 @@
+[$Version]
+update_info=kwinrules.upd:replace-placement-string-to-enum
+
+[1]
+Description=Krunner Floating (Enable FreeFloating=true on krunnerrc)
+position=412,30
+positionrule=2
+wmclass=krunner
+wmclassmatch=1
+
+[General]
+count=1
