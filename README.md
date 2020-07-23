@@ -30,7 +30,7 @@ In this repository I intend to keep configuration files that I deem important, i
 
 # My Custom Plasma and Telegram Themes (Inspired by Materia)
 
-### [Shadow-Rounded-Materia](https://github.com/jeffinshadow/dotfiles/tree/master/.local/share/plasma/desktoptheme): A darker variant of Materia-KDE, with more rounded corners
+### [Shadow-Rounded-Materia](https://github.com/jeffinshadow/dotfiles/blob/master/.local/share/README.md): A darker variant of Materia-KDE, with more rounded corners
 ![Screenshot](https://raw.githubusercontent.com/jeffinshadow/dotfiles/master/readmepictures/shadowroundedmateria.png)
 
 ### [Shadow-Breeze Splashscreen](https://github.com/jeffinshadow/dotfiles/tree/master/.local/share/plasma/look-and-feel): A custom version of Breeze default splashscreen
